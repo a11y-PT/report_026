@@ -9,22 +9,18 @@ validity: "21-07-2026 a 21-07-2027" # Entre as aspas escreve data de início e d
 status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Relatório de auditoria
+# Câmara Municipal de Alcoutim
 
-Sítio Web: {{ page.website }}
+- Data de criação: 13/03/2026
+- URL:https://cm-alcoutim.pt/
+- Propriedade: Município de Alcoutim
+- Candidatura: Prata
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
-- Validade do selo: {{ page.validity }}
-- Estado: {{ page.status }}
-
-## Relatório {{ page.website }}
+## Relatório de auditoria
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
-Consulte aqui a última atualização: [Relatório {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório Câmara Municipal de Alcoutim](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
